@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm a Senior Software Enginee </h1>
+<h1 align="center">Hi 👋, I'm a Senior Software Engineer at SF Bay Area </h1>
 <h3 align="center">Skilled in Python Development, AWS, and ML Platform</h3>
 
 - 🔭 I’m currently working on **Python Full Stack Development**
