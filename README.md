@@ -12,7 +12,7 @@
 
 - ⚙️ I use daily: .py, .js, .yml, .sh
 
-- 👨‍💻 All of my projects are available at [https://jeffchiucp.github.io/portfolio/](https://jeffchiucp.github.io/portfolio/)
+- 👨‍💻 My project Portfolio is available at [https://jeffchiucp.github.io/portfolio/](https://jeffchiucp.github.io/portfolio/)
 
 - 🌍 I'm mostly active within the Python Community
 
