@@ -28,4 +28,4 @@
 
 #### Development Stuffs:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.zohan.tech/api?username=jeffchiucp&show_icons=true&locale=en" alt="jeffchiucp" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.zohan.tech/api?username=jeffchiucp&hide=contribs&show_icons=true&locale=en" alt="jeffchiucp" /></p>
