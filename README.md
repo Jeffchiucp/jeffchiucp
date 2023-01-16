@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm a Senior Software Engineer at SF Bay Area </h1>
-<h3 align="center">Skilled in Full Stack Development, AWS, and Distributed System Platform</h3>
+<h1 align="center">Hi 👋, I'm a Senior Software Engineer at San Francisco Bay Area </h1>
+<h3 align="center">Skilled in Full Stack Development, AWS, and Distributed System </h3>
 
 - 🔭 I’m currently working on **Python Full Stack Development**
 
@@ -14,7 +14,7 @@
 
 - 💬 Ping me about **Django**, **Python**, **RestAPIs**
 
-- 📫 You can reach me via Linkedin 
+- 📫 You can reach me via Linkedin Below 
 
 
 <h3 align="left">Connect with me:</h3>
