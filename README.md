@@ -1,20 +1,25 @@
 
-<h1 align="center">Hi 👋, I'm a Software Engineer and Data Scientist candidate of Master at Northwestern University  </h1>
+<h1 align="center">Hi 👋, I'm a Senior Software Engineer at SF Bay Area </h1>
 <h3 align="center">Skilled in Full Stack Development, AWS, and Distributed System Platform</h3>
 
-- 🔭 I’m currently learning more about **React Native Full Stack Development**
+- 🔭 I’m currently working on **Python Full Stack Development**
 
 - ✨ Contributing to [https://arrange.space/](https://github.com/arrangement-io)
 
-- 🔥 Interested in learning about mentorship and career growth
+- 🔥 Interested in Mentoring Software engineers on career growth
+
+- 👨‍💻 My project Portfolio is available at [https://jeffchiucp.github.io/portfolio/](https://jeffchiucp.github.io/portfolio/)
 
 - 🌍 I'm mostly active within the Python Community
 
 - 💬 Ping me about **Django**, **Python**, **RestAPIs**
 
+- 📫 You can reach me via Linkedin 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/jeffchiu2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeffchiu2020" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/3000566/ninjag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ninjag" height="30" width="40" /></a>
 </p>
 
