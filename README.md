@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm a Senior Software Engineer at SF Bay Area </h1>
 <h3 align="center">Skilled in Full Stack Development, AWS, and Distributed System Platform</h3>
 
-- 🔭 I’m currently working on **Python Full Stack Development**
+- 🔭 I’m currently working on ** Full Stack Development**
 
 - ✨ Contributing to [https://arrange.space/](https://github.com/arrangement-io)
 
