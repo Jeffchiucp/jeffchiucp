@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm a Senior Software Engineer & Tech Lead at SF Bay Area </h1>
-<h3 align="center">Skilled in Full Stack Development, AWS, and Distributed System Platform</h3>
+<h3 align="center">Skilled in Full Stack Development, AWS, and Distributed System Platform for AI</h3>
 
-- 🔭 I’m currently working on ** Full Stack Development & System Design**
+- 🔭 I’m currently working on **Full Stack Development & System Design**
 
 - ✨ Contributing to [https://arrange.space/](https://github.com/arrangement-io)
 
