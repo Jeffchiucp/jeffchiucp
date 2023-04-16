@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm a Senior Software Engineer at SF Bay Area </h1>
+<h1 align="center">Hi 👋, I'm a Senior Software Engineer & Tech Lead at SF Bay Area </h1>
 <h3 align="center">Skilled in Full Stack Development, AWS, and Distributed System Platform</h3>
 
-- 🔭 I’m currently working on **Python Full Stack Development**
+- 🔭 I’m currently working on ** Full Stack Development & System Design**
 
 - ✨ Contributing to [https://arrange.space/](https://github.com/arrangement-io)
 
@@ -10,9 +10,9 @@
 
 - 👨‍💻 My project Portfolio is available at [https://jeffchiucp.github.io/portfolio/](https://jeffchiucp.github.io/portfolio/)
 
-- 🌍 I'm mostly active within the Python Community
+- 🌍 I'm mostly active within the Online Community called [Taro](https://www.jointaro.com/)
 
-- 💬 Ping me about **Django**, **Python**, **RestAPIs**
+- 💬 Ping me about **Softwane Engineering**, **Tech Lead**, **API**
 
 - 📫 You can reach me via Linkedin 
 
