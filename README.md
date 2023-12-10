@@ -10,7 +10,7 @@
 
 - 👨‍💻 My project Portfolio is available at [https://jeffchiucp.github.io/portfolio/](https://jeffchiucp.github.io/portfolio/)
 
-- 🌍 I'm mostly active within the Online Community called [Taro](https://www.jointaro.com/)
+- 🌍 I'm mostly active within the Online Community called [Taro](https://www.jointaro.com/r/jeffc590/)
 
 - 💬 Ping me about **Softwane Engineering**, **Tech Lead**, **API**
 
