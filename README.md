@@ -1,12 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm a Software Engineer, Google, Apple Alumni, at SF Bay Area </h1>
+<h1 align="center">Hi 👋, I'm a Software Engineer, Google & Apple Alumni </h1>
 <h3 align="center">Skilled in Full Stack Development, AWS, and Distributed System Platform for AI</h3>
 
 - 🔭 I’m currently working on **Full Stack Software Development & System Design**
 
 - ✨ Contributing to [https://arrange.space/](https://github.com/arrangement-io)
 
-- 🔥 Interested in Mentoring Software engineers on career growth
+- 🔥 Interested in Mentoring Software engineers on career growth 
 
 - 👨‍💻 My project Portfolio is available at [https://jeffchiucp.github.io/portfolio/](https://jeffchiucp.github.io/portfolio/)
 
