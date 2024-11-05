@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm a Software Engineer </h1>
+<h1 align="center">Hi 👋, I'm a Engineer Leader </h1>
 <h3 align="center">Skilled in Full Stack Development, AWS, and Distributed System Platform for AI</h3>
 
 - 🔭 I’m currently working on **Full Stack Software Development & System Design**
