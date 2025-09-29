@@ -8,8 +8,6 @@
 
 - 🔥 Interested in Mentoring Software engineers on career growth 
 
-- 👨‍💻 My project Portfolio is available at [https://jeffchiucp.github.io/portfolio/](https://jeffchiucp.github.io/portfolio/)
-
 - 🌍 I'm mostly active within the Online Community called [Taro](https://www.jointaro.com/r/jeffc590/)
 
 <h3 align="left">Professional Interests:</h3>
