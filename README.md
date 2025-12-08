@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm a Engineer Tech Leader </h1>
 <h3 align="center">Skilled in Full Stack Development, AWS, and Distributed System Platform for AI</h3>
 
-- 🔭 I’m currently working on **Full Stack Software Development & System Design**
+- 🔭 I’m currently working on **AI Software Development & Machine Learning System Design**
 
 - ✨ Contributing to [https://arrange.space/](https://github.com/arrangement-io)
 
 - 🔥 Interested in Mentoring Software engineers on career growth 
 
-- 🌍 I'm mostly active within the Online Community called [Taro](https://www.jointaro.com/r/jeffc590/)
+- 🌍 I'm mostly active within the SF Tech Community 
 
 <h3 align="left">Professional Interests:</h3>
 
