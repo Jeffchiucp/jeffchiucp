@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **AI Software Development & Machine Learning System Design**
 
-- ✨ Contributing to [https://arrange.space/](https://github.com/arrangement-io)
+- ✨ Contributor to archived project [https://arrange.space/](https://github.com/arrangement-io)
 
 - 🔥 Interested in Mentoring Software engineers on career growth 
 
