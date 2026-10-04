@@ -2,12 +2,12 @@
 <h1 align="center">Hi 👋, I'm a Engineer Tech Leader </h1>
 <h3 align="center">Skilled in Full Stack Development, AWS, and Distributed System Platform for AI</h3>
 
-- 🔭 I’m currently working on **AI Software Development & Machine Learning System Design**
+-  I’m an engineering leader building reliable backend, cloud, and AI-adjacent systems.
 
-- ✨ Contributor to archived project [https://arrange.space/](https://github.com/arrangement-io)
-
-- 🔥 Interested in Mentoring Software engineers on career growth 
-
+I work across:
+- Distributed systems and backend platforms
+- AWS infrastructure, developer tooling, and automation
+- Python, data engineering, and ML system design
 - 🌍 I'm mostly active within the SF Tech Community 
 
 <h3 align="left">Professional Interests:</h3>
